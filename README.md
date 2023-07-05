@@ -1,6 +1,17 @@
+![Screenshot 2023-07-05 212910](https://github.com/AndyDwi/UAS_06TPLM002_191011400713/assets/132753583/04c2235a-05b2-4e32-b3d9-ef106a7b5e9a)
 # uas_andy
 
-A new Flutter project.
+UAS 
+NAMA: ANDY DWI PRASETYO
+NIM: 191011400713
+MOBILE PROGRAMING
+
+
+![Uploading Screenshot 2023-07-05 212830.png…]()
+![Uploading Screenshot 2023-07-05 212756.png…]()
+
+
+
 
 ## Getting Started
 
