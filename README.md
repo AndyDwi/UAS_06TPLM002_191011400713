@@ -1,4 +1,4 @@
-![Screenshot 2023-07-05 212910](https://github.com/AndyDwi/UAS_06TPLM002_191011400713/assets/132753583/04c2235a-05b2-4e32-b3d9-ef106a7b5e9a)
+
 # uas_andy
 
 UAS 
@@ -6,9 +6,9 @@ NAMA: ANDY DWI PRASETYO
 NIM: 191011400713
 MOBILE PROGRAMING
 
-
-![Uploading Screenshot 2023-07-05 212830.png…]()
-![Uploading Screenshot 2023-07-05 212756.png…]()
+![Screenshot 2023-07-05 212756](https://github.com/AndyDwi/UAS_06TPLM002_191011400713/assets/132753583/016b0d7a-b831-477f-8b09-907fb54f085d)
+![Screenshot 2023-07-05 212830](https://github.com/AndyDwi/UAS_06TPLM002_191011400713/assets/132753583/bfcef052-6447-4423-a55e-ececd4ea8030)
+![Screenshot 2023-07-05 212910](https://github.com/AndyDwi/UAS_06TPLM002_191011400713/assets/132753583/c9b34940-b4c4-491d-8128-40215a9ef85c)
 
 
 
